@@ -173,3 +173,5 @@ You can download the files separately by navigating the project on github, you c
 
 * 1.1.0 (May 18, 2011): Move project to github; no changes in functionality
 * 1.0.0 (February 22, 2007): Initial release
+
+NB: The readme was kept verbatim after the fork, except for this message.

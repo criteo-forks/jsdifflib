@@ -1,0 +1,24 @@
+{
+  "name": "jsdifflib-fork",
+  "version": "1.0.0",
+  "description": "Fork of cemerick/jsdifflib that exports the variables properly",
+  "main": "difflib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criteo-forks/jsdifflib.git"
+  },
+  "keywords": [
+    "jsdifflib",
+    "diff",
+    "difflib"
+  ],
+  "author": "Huseyin Olgac (hm.olgac@criteo.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/criteo-forks/jsdifflib/issues"
+  },
+  "homepage": "https://github.com/criteo-forks/jsdifflib#readme"
+}

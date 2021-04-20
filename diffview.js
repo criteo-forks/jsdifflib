@@ -125,7 +125,7 @@ export var diffview = {
 		}
 		
 		for (var idx = 0; idx < opcodes.length; idx++) {
-			code = opcodes[idx];
+			var code = opcodes[idx];
 			var change = code[0];
 			var b = code[1];
 			var be = code[2];

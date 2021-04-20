@@ -1,6 +1,6 @@
 {
   "name": "jsdifflib-fork",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fork of cemerick/jsdifflib that exports the variables properly",
   "main": "difflib.js",
   "scripts": {
